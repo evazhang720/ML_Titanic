@@ -49,9 +49,10 @@ Due to the fact that there are too many missing values(177/891) in the variable 
  
 **2. Open the file**
 >* 1).Open the 'Anaconda', then click 'Juypter'
-* 2).Click 'Downloads', then click 'Tatanic', then click 'Code_Final_ML1_Group16.ipynb'
+>* 2).Click 'Downloads', then click 'Tatanic', then click 'Code_Final_ML1_Group16.ipynb'
 
-**3. Run each chunk：** Shift + Enter
+**3. Run each chunk：**  
+>* Shift + Enter
 
 # Goal 
 
