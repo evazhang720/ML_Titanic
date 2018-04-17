@@ -35,18 +35,28 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 
 # Installation
 
-**To run this notebook:**  
-**1. Download the file**  
+**To run this notebook:**  
+**1. Download the file**  
 >For Windows Users:  
 * 1).Download git from the following link: https://git-scm.com/download/win and install it by simple click "Next" command 
 * 2).Go to your Desktop, and right click left-click the mouse, and type, then choose "Git Bush Here 
 * 3).In the git, type 'cd ~/Downloads'
-* 4).Then, type 'git clone https://github.com/evazhang720/Tatanic.git'
+* 4).Then, type 'git clone https://github.com/evazhang720/ML_Titanic.git'
+# Installation
+
+**To run this notebook:**  
+**1. Download the file**  
+>For Windows Users:  
+* 1).Download git from the following link: https://git-scm.com/download/win and install it by simple click "Next" command 
+* 2).Go to your Desktop, and right click left-click the mouse, and type, then choose "Git Bush Here 
+* 3).In the git, type 'cd ~/Downloads'
+* 4).Then, type 'git clone https://github.com/evazhang720/ML_Titanic.git'
+
 > For Mac Users:
 * 1).Open the 'Spotlight Search'
 * 2).Type the'terminal' in the 'Spotlight Search'
 * 3).In the terminal, type 'cd Downloads'
-* 4). Then, type 'git clone https://github.com/evazhang720/Tatanic.git'
+* 4). Then, type 'git clone https://github.com/evazhang720/ML_Titanic.git'
  
 **2. Open the file**
 >* 1).Open the 'Anaconda', then click launch 'Juypter'
