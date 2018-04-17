@@ -35,7 +35,7 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 
 # Installation
 
-**To run this notebook:**  
+**To run this notebook:**   
 **1. Download the file**  
 >For Windows Users:  
 * 1).Download git from the following link: https://git-scm.com/download/win and install it by simple click "Next" command 
