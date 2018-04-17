@@ -31,6 +31,7 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 >* **train.csv:** The dataset that we used for this project
 >* **Code_Final_ML1_Group16.ipynb:** Code of our project
 >* **Report_Final_ML1_Group16.pdf:** The report of our project
+>* **ML - Final Project-PPT.pptx:** The presentation of our project
 
 # Installation
 
