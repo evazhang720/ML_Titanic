@@ -14,7 +14,7 @@
 >https://www.kaggle.com/c/3136/download/train.csv
 
 # Limitation
-Due to the fact that there are too many missing values(177/891) in the variable “Age”, it is unlikely to make a perfect imputation, which might affect the prediction. 
+>Due to the fact that there are too many missing values(177/891) in the variable “Age”, it is unlikely to make a perfect imputation, which might affect the prediction. 
 
 ## Setup
 * **Platform：** Anaconda-Juypter( Download from following link:https://www.anaconda.com/download/)
