@@ -56,7 +56,10 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 
 # Goal 
 
->In this project, we will apply machine learning techniques to build the optimal model, find the most valuable predicators, and predict the probability of survival on the Titanic. 
+>In this project, we will apply machine learning techniques to find the most valuable predicators and build the optimal model to predict the probability of survival on the Titanic.
+
+
+
 
 ### This notebook will show basc example of:
 
@@ -70,4 +73,7 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 
 # Conclusion
 
->Overall, the last model we made has came up with a very high AUC value, which we believe it will give a relatively accurate prediction on the survival probability on the Titanic. 
+>We got the four important features are Age, Fare and Sex_male, and Sex_female. Moreover, we found the Forest Random model with 10 features and four parameters (n_jobs=1, n_estimators=100, max_depth=10, min_samples_leaf=2,) is the most accurate model to find survival rate.
+
+
+
