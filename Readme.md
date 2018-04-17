@@ -48,7 +48,7 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 * 4). Then, type 'git clone https://github.com/evazhang720/Tatanic.git'
  
 **2. Open the file**
->* 1).Open the 'Anaconda', then click 'Juypter'
+>* 1).Open the 'Anaconda', then click launch 'Juypter'
 >* 2).Click 'Downloads', then click 'Tatanic', then click 'Code_Final_ML1_Group16.ipynb'
 
 **3. Run each chunk：**  
