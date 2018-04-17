@@ -74,7 +74,7 @@ Due to the fact that there are too many missing values(177/891) in the variable 
 
 # Conclusion
 
->We got the four important features are Age, Fare and Sex_male, and Sex_female. Moreover, we found the Forest Random model with 10 features and four parameters (n_jobs=1, n_estimators=100, max_depth=10, min_samples_leaf=2,) is the most accurate model to find survival rate.
+>We got the four important features are Age, Fare and Sex_male, and Sex_female. Moreover, we found the Random Forest model with 10 features and four parameters (n_jobs=1, n_estimators=100, max_depth=10, min_samples_leaf=2,) is the most accurate model to find survival rate.
 
 
 
