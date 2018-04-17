@@ -28,10 +28,10 @@
 
 # Project Files
 >* **README.md:** Describing the project and how to run the code 
-* **train.csv:** The dataset that we used for this project
-* **Code_Final_ML1_Group16.ipynb:** Code of our project
-* **Report_Final_ML1_Group16.pdf:** The report of our project 
-* **ML - Final Project-PPT.pptx:** The presentation of our project
+>* **train.csv:** The dataset that we used for this project
+>* **Code_Final_ML1_Group16.ipynb:** Code of our project
+>* **Report_Final_ML1_Group16.pdf:** The report of our project 
+>* **ML - Final Project-PPT.pptx:** The presentation of our project
 
 # Installation
 
